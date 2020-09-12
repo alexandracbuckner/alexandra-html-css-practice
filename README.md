@@ -1,4 +1,4 @@
-#Alexandra's HTML practice assignment
+# Alexandra's HTML CSS practice assignment
 
 By Alexandra Currie-Buckner, Intro Coding for Journalists class
 
